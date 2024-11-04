@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=The-Ghonim&icon=0&color=6)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👋 Hello , I'm Abdo Ghonim  <br>📀 I’m a Commerce graduate making a career shift into Frontend Developm.ent<br>🔍I would love to be a professional programmer, especially in the front-end.<br>📧 You can Contact me Via Email : thegonim@zohomail.com.<br>📱 You can also contact me directly : 01017633255 .<br>
 
@@ -22,6 +23,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=The-Ghonim&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=The-Ghonim&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
